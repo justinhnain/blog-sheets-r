@@ -1,0 +1,4 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"0","googlesheets4::gs4_auth(email = TRUE)"
+"2","[36mℹ[39m The [34mgooglesheets4[39m package is using a cached token for ]8;;mailto:415nain@gmail.com[34m415nain@gmail.com[39m]8;;.
+"

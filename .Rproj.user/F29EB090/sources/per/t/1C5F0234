@@ -1,0 +1,28 @@
+{
+    "id": "1C5F0234",
+    "path": "~/Documents/src/R/blog-sheets/blog-post.rmd",
+    "project_path": "blog-post.rmd",
+    "type": "r_markdown",
+    "hash": "3414402049",
+    "contents": "",
+    "dirty": true,
+    "created": 1677548363049.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "1,51",
+        "scrollLine": "0",
+        "last_setup_crc32": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1677561573,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1677561709898,
+    "read_only": false,
+    "read_only_alternatives": []
+}

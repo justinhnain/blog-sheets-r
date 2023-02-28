@@ -1,0 +1,8 @@
+"0","URL_untidy <- ""https://docs.google.com/spreadsheets/d/1QG_9gkWtciEmHggb6BjLg-6hF9FyekzKN9cLjyteh00/edit#gid=1469251738&fvid=2032560885"""
+"0",""
+"0","df <- read_sheet(URL_untidy, sheet = 1, range = ""B3:Z123"")"
+"2","[32m✔[39m Reading from [36mUntidy Excel table[39m.
+"
+"2","[32m✔[39m Range '[33m'Top 20 Vendors'!B3:Z123[39m'.
+"
+"0","df"

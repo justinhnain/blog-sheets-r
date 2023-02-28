@@ -1,0 +1,6 @@
+"0","URL_tidy <- ""https://docs.google.com/spreadsheets/d/11dzJ6Mff6eFhl5h6QO0NK2PYDs8zmutvSh1qX-PFe7U/edit#gid=0"""
+"0","write_sheet(data = df, ss = URL_tidy, sheet = 1)"
+"2","[32m✔[39m Writing to [36mtidy_spreadsheet[39m.
+"
+"2","[32m✔[39m Writing to sheet [32mSheet1[39m.
+"

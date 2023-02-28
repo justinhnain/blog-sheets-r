@@ -1,0 +1,8 @@
+"0","df <- df |> "
+"0","  pivot_longer("
+"0","    cols      = 4:ncol(df),"
+"0","    names_to  = ""Vendor"","
+"0","    values_to = ""Market Share"""
+"0","  )"
+"0",""
+"0","df"
